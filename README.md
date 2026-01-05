@@ -5,7 +5,7 @@ This project implements a basic AND gate using Verilog HDL and verifies it using
 # Files
 - and_gate.v:AND gate design
 - tb_and_gate.v:Testbench
-- and.vcd:Waveform output (optional)
+- and.vcd:Waveform output
 
 # How to Run
 ```bash

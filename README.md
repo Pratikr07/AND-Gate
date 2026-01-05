@@ -9,6 +9,6 @@ This project implements a basic AND gate using Verilog HDL and verifies it using
 
 # How to Run
 ```bash
-iverilog -o and and_gate.v tb_and_gate.v
+iverilog -o and and_gate.v.txt tb_and_gate.v.txt
 vvp and
 gtkwave and.vcd
